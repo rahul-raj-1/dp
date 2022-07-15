@@ -14,3 +14,8 @@ https://www.youtube.com/watch?v=tWnHbSHwNmA&t=1246s
 
 
 https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo
+
+
+Practice Binary tree questions here :-
+
+https://www.techiedelight.com/data-structures-and-algorithms-problems/

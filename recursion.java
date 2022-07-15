@@ -1,4 +1,6 @@
 ====================
+https://www.youtube.com/watch?v=RlUu72JrOCQ --Important to understand recusrion on trees and recusrsion flow in general.
+
 1)Print all power sets/Subsequence . (Same code for both of them) .
 Backtracking is used when you have multiple solutions and we want all solutions
 Q1) Find number of powerset/subsesequences of a String/Array and print them ?
